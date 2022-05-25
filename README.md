@@ -5,4 +5,5 @@ Consiste en agregar mas de un archivo .html y interactuar entre ellos.
 
 
 
-El archivo host se almacena en el sigueinte directorio  C:\Windows\System32\drivers\etc
+El archivo hosts se almacena en el sigueinte directorio  C:\Windows\System32\drivers\etc
+El archivo httpd-vhosts.conf se almacena en el sigueinte directorio  C:\xampp\apache\conf\extra
